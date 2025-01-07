@@ -1,0 +1,6 @@
+FROM mysql:latest
+ENV MYSQL_ROOT_PASSWORD=fahmifadilah25
+ENV MYSQL_DATABASE=quarkus_demo
+ENV MYSQL_USER=fajar
+ENV MYSQL_PASSWORD=pwd123
+
